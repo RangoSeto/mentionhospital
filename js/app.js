@@ -52,7 +52,7 @@ $(document).ready(function(){
 		// auto:true,
 		item:4,
         loop:true,
-        slideMove:1,
+        // slideMove:1,
         speed:600
 	}).play();
 

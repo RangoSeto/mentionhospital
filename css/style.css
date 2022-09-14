@@ -76,7 +76,7 @@ body{
 
 	position:absolute;
 	left: calc(50% - 35px);
-	 top: -35px;
+	top: -35px;
 }
 
 .iconboxes:hover .icons{
@@ -345,7 +345,7 @@ body{
 #progresses{
 	width: 50px;
 	height: 50px;
-	/*background-color: steelblue;*/
+	/* background-color: steelblue; */
 	border-radius: 50%;
 	box-shadow: 0 0 5px rgba(0,0,0,0.2);
 
